@@ -87,7 +87,7 @@ class moto extends Vehicule{
 
 }
 
-    
+ //la création des des instances   
    
 $Voiture = new voiture("BMW","X5",280, 2015);
 
